@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-spring-preparation.iml" filepath="$PROJECT_DIR$/java-spring-preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-webflux/learn-webflux.iml" filepath="$PROJECT_DIR$/learn-webflux/learn-webflux.iml" />
     </modules>
   </component>
 </project>
